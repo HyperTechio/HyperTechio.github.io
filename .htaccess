@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "Authentification required."
-AuthUserFile /.htpasswd
+AuthName "Authentification Test"
+AuthUserFile /test.txt
 Require valid-user
